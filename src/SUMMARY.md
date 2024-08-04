@@ -1,3 +1,3 @@
 # Summary
 
-- [Introduction](./introduction.md)
+- [Guided Tour](./guided-tour.md)
